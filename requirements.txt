@@ -1,0 +1,10 @@
+opencv-python
+numpy
+Pillow
+imagehash
+tqdm
+pandas
+scikit-image
+scikit-learn
+matplotlib
+openpyxl
